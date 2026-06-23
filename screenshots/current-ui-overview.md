@@ -44,7 +44,8 @@ Key capabilities visible:
 
 ### Knowledge Base
 
-<img width="1600" height="900" alt="chiomaknowledgebase" src="https://github.com/user-attachments/assets/507d0359-ca48-4bf1-ad82-d25e7974522e" />
+<img width="1600" height="900" alt="chiomaknowledgebase" src="https://github.com/user-attachments/assets/3c8c4d22-0f03-4568-86cb-eed01dde393e" />
+
 
 
 ### Settings
