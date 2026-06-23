@@ -34,7 +34,8 @@ Key capabilities visible:
 - Guided setup workflows
 - Customer conversation access
 
-[screenshot]
+<img width="1600" height="900" alt="chiomadashboard" src="https://github.com/user-attachments/assets/eccf8002-8d87-46f4-a2ea-22857246f288" />
+
 
 ### Conversations
 
