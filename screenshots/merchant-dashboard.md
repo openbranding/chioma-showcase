@@ -1,35 +1,75 @@
-# Merchant Dashboard
+# Merchant Workspace
 
 ## Overview
 
-This page will contain screenshots and evidence from the Chioma merchant dashboard.
+The Merchant Workspace is the primary operating environment used by business owners inside Chioma.
 
----
+The current workspace focuses on customer engagement, knowledge management, WhatsApp operations, and merchant readiness.
 
-## Planned Evidence
+## Current Modules
 
-### Merchant List
+### Dashboard
 
-Screenshot showing merchants managed by the platform.
+Provides:
 
-### Merchant Details
+- WhatsApp connection status
+- Readiness indicators
+- Business knowledge status
+- Guided onboarding progress
 
-Screenshot showing merchant profile information.
+### Messages
 
-### Knowledge Management
+Provides:
 
-Screenshot showing business knowledge management.
+- Customer conversations
+- Human takeover controls
+- AI handoff visibility
+- Conversation management
 
-### Customer Engagement
+### FAQ Bank
 
-Screenshot showing customer conversations and engagement metrics.
+Provides:
 
-### Workflow Management
+- Frequently asked questions
+- Answer management
+- Topic categorization
+- Response maintenance
 
-Screenshot showing workflow configuration and automation.
+### Products
 
----
+Provides:
 
-## Status
+- Product catalog management
+- Product information editing
+- Availability control
 
-Evidence collection in progress.
+### Broadcasts
+
+Provides:
+
+- Customer messaging campaigns
+- Broadcast management
+
+### Reports
+
+Provides:
+
+- Usage visibility
+- Engagement statistics
+- Performance monitoring
+
+### Quality Audit
+
+Provides:
+
+- AI response review
+- Readiness validation
+- Knowledge quality assessment
+
+### Settings
+
+Provides:
+
+- Business profile management
+- Notification preferences
+- Workspace configuration
