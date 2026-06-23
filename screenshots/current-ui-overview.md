@@ -42,10 +42,9 @@ Key capabilities visible:
 <img width="1600" height="900" alt="chiomamessage" src="https://github.com/user-attachments/assets/d287c4f9-af2a-408c-810d-e21f38d5f5a1" />
 
 
-### Knowledge Base
+### FAQ Bank
 
-<img width="1600" height="900" alt="chiomaknowledgebase" src="https://github.com/user-attachments/assets/3c8c4d22-0f03-4568-86cb-eed01dde393e" />
-
+<img width="1600" height="900" alt="chiomafaq" src="https://github.com/user-attachments/assets/772ab7ef-2bc9-48cc-ae79-5db3220ea5e4" />
 
 
 ### Settings
