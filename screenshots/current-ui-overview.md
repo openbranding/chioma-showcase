@@ -39,12 +39,15 @@ Key capabilities visible:
 
 ### Conversations
 
-[screenshot]
+<img width="1600" height="900" alt="chiomamessage" src="https://github.com/user-attachments/assets/d287c4f9-af2a-408c-810d-e21f38d5f5a1" />
+
 
 ### Knowledge Base
 
-[screenshot]
+<img width="1600" height="900" alt="chiomaknowledgebase" src="https://github.com/user-attachments/assets/507d0359-ca48-4bf1-ad82-d25e7974522e" />
+
 
 ### Settings
 
-[screenshot]
+<img width="1600" height="900" alt="chiomasettings" src="https://github.com/user-attachments/assets/711fc8c6-f8ae-4687-81f9-2ad9b820ab9f" />
+
