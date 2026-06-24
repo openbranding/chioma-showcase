@@ -1,100 +1,141 @@
-# Chioma Showcase
+# Chioma
 
-Architecture notes, screenshots, workflows, and implementation highlights from the Chioma platform.
-
----
-
-## Purpose
-
-This repository demonstrates practical work completed during the development of Chioma.
-
-Rather than describing ideas, this repository focuses on actual implementation progress, architecture decisions, workflows, and business outcomes.
+Merchant Intelligence Platform for WhatsApp Commerce and Customer Support
 
 ---
 
-## About Chioma
+## Overview
 
-Chioma is a merchant-focused customer engagement and commerce platform.
+Chioma began as a WhatsApp Commerce and Customer Support platform.
 
-The platform helps businesses manage:
+It is evolving into a Merchant Intelligence Platform that helps businesses:
 
+- Manage customer engagement
+- Govern business knowledge
+- Measure operational readiness
+- Detect support risks
+- Improve customer experiences
+
+---
+
+## Core Philosophy
+
+Better customer experiences begin with better business readiness.
+
+Rather than simply answering customer questions, Chioma helps merchants improve the operational knowledge behind those answers.
+
+---
+
+## Current Platform Areas
+
+### Customer Operations
+
+- Messages
+- Escalations
+- Broadcasts
 - Customer engagement
-- Merchant knowledge
-- Product information
-- Support workflows
-- Commerce processes
-- Business automation
+
+### Knowledge Operations
+
+- FAQs
+- Products
+- Policies
+- Knowledge Governance
+
+### Merchant Intelligence
+
+- Readiness Assessment
+- Knowledge Gap Detection
+- Risk Identification
+- Improvement Recommendations
 
 ---
 
-## Showcase Areas
+## Current User Interface
 
-### Product Screenshots
+See:
 
-Visual demonstrations of platform capabilities.
-
-### Workflow Examples
-
-Business processes supported by Chioma.
-
-Examples:
-
-- Customer support
-- Merchant onboarding
-- Product management
-- Order workflows
-- Business automation
-
-### Architecture Notes
-
-Important implementation decisions and system design approaches.
-
-### Integration Examples
-
-Examples of platform integrations and communication patterns.
-
-### Lessons Learned
-
-Key insights discovered during development.
+- screenshots/current-ui-overview.md
+- screenshots/merchant-dashboard.md
 
 ---
 
-## What This Repository Is Not
+## Architecture
 
-This is not product documentation.
+### Merchant Workspace
 
-This is not source code.
+architecture/merchant-workspace.md
 
-This repository exists to demonstrate practical implementation work.
+### Merchant Intelligence
+
+architecture/merchant-intelligence.md
+
+### Merchant Intelligence Engine
+
+architecture/merchant-intelligence-engine.md
+
+### Merchant Readiness
+
+architecture/merchant-readiness.md
+
+### Readiness Scoring
+
+architecture/readiness-scoring.md
+
+### Knowledge Governance
+
+architecture/knowledge-governance.md
+
+### Future Workspace Vision
+
+architecture/future-workspace-vision.md
 
 ---
 
-## Long-Term Vision
+## Workflows
 
-Build a transparent record of how Chioma evolves from concept to production platform.
+### Merchant Onboarding
 
----
+workflows/merchant-onboarding.md
 
-## Relationship to Workpilot
+### Knowledge Approval
 
-Chioma Showcase is part of the Workpilot ecosystem.
+workflows/knowledge-approval.md
 
-Related repositories:
+### Merchant Readiness Flow
 
-- Chioma Docs
-- Workpilot Docs
-- Workpilot Labs
-- Workpilot API
-- Workpilot SDK
-- Workpilot AI
-- Workpilot Showcase
+workflows/merchant-readiness-flow.md
+
+### Conversation Learning
+
+workflows/conversation-learning.md
 
 ---
 
-## Closing Thought
+## Strategic Direction
 
-Ideas are common.
+Chioma is not simply a WhatsApp chatbot.
 
-Implementation is rare.
+It is a Merchant Intelligence Platform that happens to communicate through WhatsApp.
 
-Evidence matters.
+The long-term vision is to help businesses continuously improve customer engagement, operational readiness, and business knowledge quality.
+
+---
+
+## Status
+
+Architecture: Active
+
+User Interface: Active
+
+Merchant Intelligence: In Design
+
+Readiness Systems: In Design
+
+Commerce Expansion: Future
+
+---
+
+## Repository Purpose
+
+This repository serves as a public showcase of Chioma's architecture, workflows, user experience, and long-term product vision.
