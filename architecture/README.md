@@ -4,33 +4,14 @@ Architecture documentation describing the evolution of Chioma from a WhatsApp co
 
 ---
 
-## Architecture Documents
-
 ## Architecture
 
-- `architecture/chioma-platform-diagram.md`
-  Platform Diagram.
-
-- `platform-map.md`  
-  High-level map of Chioma’s platform layers.
-
-- `merchant-workspace.md`  
-  The merchant operating environment inside Chioma.
-
-- `merchant-intelligence.md`  
-  How Chioma detects gaps, improves readiness, and supports better customer experiences.
-
-- `merchant-intelligence-engine.md`  
-  The intelligence layer responsible for assessments and recommendations.
-
-- `merchant-readiness.md`  
-  Readiness categories and operational assessment areas.
-
-- `readiness-scoring.md`  
-  How readiness can be measured and tracked.
-
-- `knowledge-governance.md`  
-  How business knowledge remains reviewed, approved, and controlled.
-
-- `future-workspace-vision.md`  
-  Long-term direction for the future Chioma workspace.
+| Document | Purpose |
+|----------|---------|
+| Platform Diagram | High-level visual overview of the Chioma platform |
+| Platform Map | Platform layers and responsibilities |
+| Merchant Workspace | Merchant operating environment |
+| Merchant Intelligence | Intelligence engine and recommendations |
+| Merchant Readiness | Readiness assessment framework |
+| Knowledge Governance | Business knowledge lifecycle |
+| Future Workspace Vision | Long-term platform direction |
