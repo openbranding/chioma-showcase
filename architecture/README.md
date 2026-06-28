@@ -6,6 +6,11 @@ Architecture documentation describing the evolution of Chioma from a WhatsApp co
 
 ## Architecture Documents
 
+## Architecture
+
+- `architecture/chioma-platform-diagram.md`
+  Platform Diagram.
+
 - `platform-map.md`  
   High-level map of Chioma’s platform layers.
 
